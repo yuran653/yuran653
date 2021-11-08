@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://badge42.herokuapp.com/api/stats/jgoldste
+![jgoldste stats](https://badge42.herokuapp.com/api/stats/jgoldste)
 <!--
 **yuran653/yuran653** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
